@@ -1,5 +1,5 @@
 import Comments from "@/app/components/comments";
-import delay from "@/lib/delay";
+
 import getAllPost from "@/lib/getAllPost";
 import getPostComments from "@/lib/getPostComments";
 import getSinglePost from "@/lib/getSinglePost";
